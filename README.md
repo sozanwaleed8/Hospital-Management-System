@@ -2,6 +2,8 @@
 
 A full-stack hospital management system built with PHP, MySQL, HTML, CSS, and Bootstrap.
 
+Demo Link: https://sozanashour.github.io/Hospital-Management-System/
+
 ## 🚀 Features
 - User authentication (Login & Register)
 - Role-based system (Doctor, Patient, Pharmacist)
